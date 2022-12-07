@@ -1,2 +1,4 @@
 # kt-godgrace
-# include cstdio h>
+# include <stdio h>
+# void main()
+  print f
